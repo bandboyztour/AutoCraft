@@ -1,0 +1,8 @@
+# Auto-generated plugin.yml, generated at 2020/06/07 18:25:17 by org.bukkit.plugin.java.annotation.PluginAnnotationProcessor
+
+main: team.wedlix.AutoCraftPlugin
+name: AutoCraft
+version: 1.0.0
+load: POSTWORLD
+commands: {}
+permissions: {}
